@@ -1,3 +1,8 @@
+**※勉強用にchokidarをフォークしてコメント書き込みながら読んでいくやつです。**
+
+**※フォーク元 https://github.com/paulmillr/chokidar** 
+
+
 # Chokidar [![Weekly downloads](https://img.shields.io/npm/dw/chokidar.svg)](https://github.com/paulmillr/chokidar) [![Yearly downloads](https://img.shields.io/npm/dy/chokidar.svg)](https://github.com/paulmillr/chokidar)
 
 > Minimal and efficient cross-platform file watching library
